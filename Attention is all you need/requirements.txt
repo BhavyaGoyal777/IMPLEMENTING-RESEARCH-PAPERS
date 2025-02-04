@@ -1,0 +1,9 @@
+torch
+numpy
+torch
+tqdm
+datasets
+tokenizers
+torchvision
+torchtext
+tensorboard
