@@ -21,7 +21,7 @@ The aligned model is available on Hugging Face:
 
 Below is a visualization of the training **loss** and **accuracy**:  
 
-![Loss and Accuracy](IMPLEMENTING-RESEARCH-PAPERS/DPO/metrics.pngpath/to/your/image.png)  
+![Loss and Accuracy](IMPLEMENTING-RESEARCH-PAPERS/DPO/metrics.png)  
 
 <!-- > Replace `path/to/your/image.png` with the actual path to your graph.   -->
 
